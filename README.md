@@ -1,4 +1,4 @@
-横向瀑布流
+移动横向瀑布流--
 
 8.29更新
 -重新定义入口文件
@@ -31,4 +31,5 @@ linflow.js
 
 
     var FloP = LinNode.parents(".m-content-item");//显示图片容器
-    
+    
+//烦请大佬们指正
